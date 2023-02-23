@@ -4,3 +4,4 @@
 
 
 [Functional Programming in Java - Full Course](https://youtu.be/rPSL1alFIjI)
+[APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
