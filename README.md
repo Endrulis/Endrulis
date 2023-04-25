@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on my own projects and seeking opportunities to grow
-- 🌱 I’m currently studying Java at Codeacademy
+- 🌱 Studied Java at Codeacademy
 - ⚡ Fun fact: strong at chess
 
 
