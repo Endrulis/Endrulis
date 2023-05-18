@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🚀 Started coding journey in 2017
-- 💻 Accumulated over 3000 hours of hands-on coding experience overall
+- 💻 Accumulated over 3000 hours of hands-on coding experience
 - 🔭 I’m currently working on my own projects
 - 🌱 Studied Java 600 hours at Codeacademy
 - ⚡ Fun fact: strong at chess
