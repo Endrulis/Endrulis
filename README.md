@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: strong at chess
 - 💡 Insight: I prioritize problem-solving, clean code, and stack experience as key pillars
 
-**Note: Acknowledge that while my GitHub projects demonstrate my ability to complete individual tasks, they may not accurately reflect my current skills and abilities. Developing an exceptional project independently, with a focus on clean code practices, requires significant time and effort. Collaborating with a team on larger projects is known to facilitate progress which I am eager to experience and contribute to.**
-
-**If you find my code useful.**
-**Here's my Bitcoin (BTC) address: 3Gzfpxz2FvmJHs82x6181PaqxdPRpZAvQ3**
-
