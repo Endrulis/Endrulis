@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🚀 Started coding journey in 2017
 - 💻 Accumulated over 3000 hours of hands-on coding experience
-- 🔭 Currently working on my own projects
+- 🔭 Currently working on various projects
 - 🌱 Studied Java 600 hours at Codeacademy
 - ⚡ Fun fact: strong at chess
 - 💡 Insight: I prioritize problem-solving, clean code, and stack experience as key pillars
