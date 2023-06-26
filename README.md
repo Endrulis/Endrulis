@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am proactive and care about projects, skilled at problem-solving, generating ideas, tend to ask a lot of questions, and meticulous in maintaining attention to details.
+
 - 🚀 Started coding journey in 2017
 - 💻 Accumulated over 3000 hours of hands-on coding experience
 - 🔭 Currently working on various projects
