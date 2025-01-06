@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am proactive and care about projects, skilled at problem-solving, generating ideas, tend to ask a lot of questions, and meticulous in maintaining attention to details.
+I am proactive and care about projects, skilled at problem-solving, generating ideas, tend to ask a lot of questions.
 
 - 🚀 Started coding journey in 2017
 - 💻 Accumulated over 3000 hours of hands-on coding experience
