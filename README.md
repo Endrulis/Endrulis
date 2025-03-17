@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am proactive and care about projects. I am skilled at problem-solving and generating ideas, and I ask a lot of questions.
-
 - 🚀 Started coding journey in 2017
 - 💻 Accumulated over 7000 hours of hands-on coding experience
 - 🔭 Currently continuing studies in college, working on personal projects, and seeking growth opportunities.
