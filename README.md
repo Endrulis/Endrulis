@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚀 Started in **2017** with **C++**
-- 💻 **7000+ hours** of hands-on coding experience  
+- 💻 **7000+ hours** of coding experience  
 - 🔭 Currently studying in college, exploring technology, and seeking growth opportunities.
 - 🌱 Studied Java + Spring Boot for 600 hours in the Bootcamp
 - ⚡ Fun fact: strong at chess
