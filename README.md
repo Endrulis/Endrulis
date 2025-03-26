@@ -16,4 +16,7 @@
 ### 📌 Summary:
 Atleast **3.5 years of programming experience** and at the same time **2 years of academic experience**.
 
-📫 **Let's connect!**
+<a href="https://github.com/Endrulis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrulis&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+
