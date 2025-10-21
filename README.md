@@ -2,7 +2,7 @@
 
 - 🚀 Started in **2017** with **C++**
 - 💻 **7000+ hours** of coding experience  
-- 🔭 Currently studying in college, exploring technology, and seeking growth opportunities.
+- 🔭 Currently studying in college and already had real internship experience with Laravel, Vue.js, Prestashop, Wordpress.
 - 🌱 Studied Java + Spring Boot for 600 hours in the Bootcamp
 - ⚡ Fun fact: strong at chess
 
@@ -12,6 +12,7 @@
 - **Java + Spring Boot (4 months, 600 hours)** – Intensive Bootcamp experience  
 - **Freelancing (3 months)**
 - **Erasmus+ Exchange (6 months)** – In-depth study of Java, Spring Boot, and React
+- **Internship in company (8 months)** – Laravel, Vue.js, Prestashop, Wordpress.
 
 ### 📌 Summary:
 Atleast **3.5 years of programming experience** and at the same time **2 years of academic experience**.
